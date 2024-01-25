@@ -1,0 +1,2 @@
+Create a counter.
+It is a button, that shows how many times you've clicked.
