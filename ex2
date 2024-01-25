@@ -1,0 +1,3 @@
+Create two paragraph elements, one pink and one purple. Each contain a number.
+When you click the pink one, the counter in the purple one goes up 1.
+When you click on the purple one, the counter in the pink one goes up 1.
